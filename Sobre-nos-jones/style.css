@@ -96,7 +96,7 @@ img{
     left: 2vw;
     height: 62vh;
     width: 24vw;
-    background-image: url("/Sobre-nos-jones/imagens/Pradinho\ Maluco.svg");
+    background-image: url("imagens/Pradinho\ Maluco.svg");
     background-size: cover;
     background-position: center;
     border: 5px solid var(--rosa-escuro);
@@ -153,17 +153,17 @@ img{
     background-position: center;
 }
 #muaythai{
-    background-image: url("/Sobre-nos-jones/imagens/bandeira-da-alemanha.png");
+    background-image: url("imagens/bandeira-da-alemanha.png");
     border: 6px solid var(--rosa-escuro);
 }
 #caipirinha{
-    background-image: url("/Sobre-nos-jones/imagens/sabrina-carpenter.jpg");
+    background-image: url("imagens/sabrina-carpenter.jpg");
     border: 6px solid var(--branco-puro);
     position: relative;
     bottom: 18vh;
 }
 #guitarra{
-    background-image: url("/Sobre-nos-jones/imagens/proibido-chocolate-leite.jpg");
+    background-image: url("imagens/proibido-chocolate-leite.jpg");
     border: 6px solid var(--rosa-claro);
 }
 #primeira-fila{
@@ -204,7 +204,7 @@ img{
     height: 60vh;
     border-radius: 15px;
     border: 8px solid var(--rosa-escuro);
-    background-image: url("/Sobre-nos-jones/imagens/praia-buraquinho2.jpg");
+    background-image: url("imagens/praia-buraquinho.jpg");
     background-size: cover;
     background-position: center;
 }
